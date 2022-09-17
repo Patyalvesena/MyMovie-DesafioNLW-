@@ -6,7 +6,7 @@
 
 ![Prewiel](./Prewiel/patyalvesena.github.io_MyMovie-DesafioNLW-_%20(1).png)
 
-[Acesse aqui] (https://patyalvesena.github.io/MyMovie-DesafioNLW-/)
+[Acesse o projeto no link] (https://patyalvesena.github.io/MyMovie-DesafioNLW-/)
 
  ## Tecnologias utilizadas.
 
